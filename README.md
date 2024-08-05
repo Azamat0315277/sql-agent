@@ -10,3 +10,5 @@
 * Execute the query and return the results
 * Correct mistakes surfaced by the database engine until the query is successful
 * Formulate a response based on the results
+
+P.S. Create `.env` file with `OPENAI_API_KEY` and `LANGCHAIN_API_KEY`
